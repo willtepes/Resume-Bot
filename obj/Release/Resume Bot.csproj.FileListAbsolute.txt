@@ -1,0 +1,45 @@
+C:\Users\willh\OneDrive\Dojo\C#\VS15\Resume Bot\Resume Bot\bin\Bot Application.dll.config
+C:\Users\willh\OneDrive\Dojo\C#\VS15\Resume Bot\Resume Bot\bin\Bot Application.dll
+C:\Users\willh\OneDrive\Dojo\C#\VS15\Resume Bot\Resume Bot\bin\Bot Application.pdb
+C:\Users\willh\OneDrive\Dojo\C#\VS15\Resume Bot\Resume Bot\bin\Autofac.dll
+C:\Users\willh\OneDrive\Dojo\C#\VS15\Resume Bot\Resume Bot\bin\Chronic.dll
+C:\Users\willh\OneDrive\Dojo\C#\VS15\Resume Bot\Resume Bot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\willh\OneDrive\Dojo\C#\VS15\Resume Bot\Resume Bot\bin\Microsoft.Bot.Builder.dll
+C:\Users\willh\OneDrive\Dojo\C#\VS15\Resume Bot\Resume Bot\bin\Microsoft.Bot.Connector.dll
+C:\Users\willh\OneDrive\Dojo\C#\VS15\Resume Bot\Resume Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\willh\OneDrive\Dojo\C#\VS15\Resume Bot\Resume Bot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\willh\OneDrive\Dojo\C#\VS15\Resume Bot\Resume Bot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\willh\OneDrive\Dojo\C#\VS15\Resume Bot\Resume Bot\bin\Newtonsoft.Json.dll
+C:\Users\willh\OneDrive\Dojo\C#\VS15\Resume Bot\Resume Bot\bin\SendGrid.dll
+C:\Users\willh\OneDrive\Dojo\C#\VS15\Resume Bot\Resume Bot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\willh\OneDrive\Dojo\C#\VS15\Resume Bot\Resume Bot\bin\System.Net.Http.Formatting.dll
+C:\Users\willh\OneDrive\Dojo\C#\VS15\Resume Bot\Resume Bot\bin\System.Web.Http.dll
+C:\Users\willh\OneDrive\Dojo\C#\VS15\Resume Bot\Resume Bot\bin\System.Web.Http.WebHost.dll
+C:\Users\willh\OneDrive\Dojo\C#\VS15\Resume Bot\Resume Bot\bin\Autofac.xml
+C:\Users\willh\OneDrive\Dojo\C#\VS15\Resume Bot\Resume Bot\bin\Microsoft.Bot.Builder.xml
+C:\Users\willh\OneDrive\Dojo\C#\VS15\Resume Bot\Resume Bot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\willh\OneDrive\Dojo\C#\VS15\Resume Bot\Resume Bot\bin\Microsoft.Bot.Connector.xml
+C:\Users\willh\OneDrive\Dojo\C#\VS15\Resume Bot\Resume Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\willh\OneDrive\Dojo\C#\VS15\Resume Bot\Resume Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\willh\OneDrive\Dojo\C#\VS15\Resume Bot\Resume Bot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\willh\OneDrive\Dojo\C#\VS15\Resume Bot\Resume Bot\bin\Newtonsoft.Json.xml
+C:\Users\willh\OneDrive\Dojo\C#\VS15\Resume Bot\Resume Bot\bin\SendGrid.pdb
+C:\Users\willh\OneDrive\Dojo\C#\VS15\Resume Bot\Resume Bot\bin\SendGrid.xml
+C:\Users\willh\OneDrive\Dojo\C#\VS15\Resume Bot\Resume Bot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\willh\OneDrive\Dojo\C#\VS15\Resume Bot\Resume Bot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\willh\OneDrive\Dojo\C#\VS15\Resume Bot\Resume Bot\bin\System.Net.Http.Formatting.xml
+C:\Users\willh\OneDrive\Dojo\C#\VS15\Resume Bot\Resume Bot\bin\System.Web.Http.xml
+C:\Users\willh\OneDrive\Dojo\C#\VS15\Resume Bot\Resume Bot\bin\System.Web.Http.WebHost.xml
+C:\Users\willh\OneDrive\Dojo\C#\VS15\Resume Bot\Resume Bot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\willh\OneDrive\Dojo\C#\VS15\Resume Bot\Resume Bot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\willh\OneDrive\Dojo\C#\VS15\Resume Bot\Resume Bot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\willh\OneDrive\Dojo\C#\VS15\Resume Bot\Resume Bot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\willh\OneDrive\Dojo\C#\VS15\Resume Bot\Resume Bot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\willh\OneDrive\Dojo\C#\VS15\Resume Bot\Resume Bot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\willh\OneDrive\Dojo\C#\VS15\Resume Bot\Resume Bot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\willh\OneDrive\Dojo\C#\VS15\Resume Bot\Resume Bot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\willh\OneDrive\Dojo\C#\VS15\Resume Bot\Resume Bot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\willh\OneDrive\Dojo\C#\VS15\Resume Bot\Resume Bot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\willh\OneDrive\Dojo\C#\VS15\Resume Bot\Resume Bot\obj\Release\Resume Bot.csprojResolveAssemblyReference.cache
+C:\Users\willh\OneDrive\Dojo\C#\VS15\Resume Bot\Resume Bot\obj\Release\Bot Application.dll
+C:\Users\willh\OneDrive\Dojo\C#\VS15\Resume Bot\Resume Bot\obj\Release\Bot Application.pdb
