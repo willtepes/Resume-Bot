@@ -18,7 +18,7 @@ using Resume_Bot.Internal;
 namespace Resume_Bot.Dialogs
 
 {
-    [LuisModel("ModelId", "key")]
+    [LuisModel("bb95a81d-43e8-4140-b438-eddc943b2aab", "397fb5d8ce894d51b945ef70b6da32d3")]
     [Serializable]
     public class Resume_BotLuisDialog : LuisDialog<object>
     {
@@ -95,14 +95,6 @@ namespace Resume_Bot.Dialogs
         #region Private 
         private static string recipientEmail = ConfigurationManager.AppSettings["RecipientEmail"];
         private static string senderEmail = ConfigurationManager.AppSettings["SenderEmail"];
-
-        private async Task GreetingDialogDone(IDialogContext context, IAwaitable<bool> result)
-        {
-            var success = await result;
-            if (!success)
-                await context.PostAsync("I'm sorry. I didn't understand you.");
-            context.Wait(MessageReceived);
-        }
 
         private async Task ContactFormComplete(IDialogContext context, IAwaitable<ContactForm> result)
         {
